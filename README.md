@@ -1,2 +1,3 @@
-# MAPD714_ToDoList_Part-1
+# MAPD714_ToDoList_App
+
 This is the Application contains ToDo List assignments.
